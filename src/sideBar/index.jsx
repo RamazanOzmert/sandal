@@ -23,7 +23,6 @@ function SideBar() {
                         <Link href="#" class="flex items-center lg:text-xl p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700">
                         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />    <span class="ml-3">
                               Feed
-                              
                            </span>
                         </Link> 
                      </li>
